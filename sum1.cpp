@@ -6,5 +6,6 @@ int main(){
     int a=100,b=200;
     c=a+b;
     cout<<"\n"<<c<<"\n";
+    cout<<"end of program\n";
     return 0;
 }
