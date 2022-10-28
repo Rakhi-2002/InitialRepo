@@ -7,5 +7,6 @@ int main(){
     c=a+b;
     cout<<"\n"<<c<<"\n";
     cout<<"end of program\n";
+    cout<<"successfully committed first repo";
     return 0;
 }
